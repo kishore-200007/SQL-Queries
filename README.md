@@ -87,22 +87,6 @@ The project includes:
 20. Display all employees ordered by Department and Salary (highest first).
 
 
-##  How to Run
-
-1. Open MySQL Workbench (or any SQL IDE).
-2. Create a new database.
-
-_sql_
-CREATE DATABASE company;
-USE company;
-
-
-3. Create the Employee table.
-4. Insert the sample data.
-5. Execute the SQL queries one by one.
-6. Observe the output.
-
-
 ## Learning Outcomes
 
 After completing this project, you will understand:
